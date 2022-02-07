@@ -1,5 +1,5 @@
 # iSarcasmEval Dataset
- This repository contanst the datasets used for [iSarcasmEval shared-task ](https://sites.google.com/view/semeval2022-isarcasmeval/home)  (Task 6 at SemEval 2022).
+ This repository contains the datasets used for [iSarcasmEval shared-task ](https://sites.google.com/view/semeval2022-isarcasmeval/home)  (Task 6 at SemEval 2022).
 
 ## The data
 - We introduce a new data collection method where the sarcasm labels for texts are provided by the authors themselves, thus eliminating labelling proxies (in the form of predefined tags, or third-party annotators). 
