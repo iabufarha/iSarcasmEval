@@ -48,10 +48,10 @@ Please use the following citation if you use any of iSarcasmEval datasets:
 title = "SemEval 2022: iSarcasmEval - Intended Sarcasm Detection in English and Arabic",
     author = "Abu Farha, Ibrahim  and
     Oprea, Silviu  and
-    Wilson, Steve", and
+    Wilson, Steve, and
     Magdy, Walid",
     booktitle = "Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)",
-    month = july,
+    month = jul,
     year = "2022",
     }
 
