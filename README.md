@@ -45,14 +45,11 @@ For all the sub-tasks, precision, recall, accuracy and macro-F1 will be reported
 Please use the following citation if you use any of iSarcasmEval datasets:
 ```
 @inproceedings{abufarha-etal-2022-semeval,
-title = "SemEval 2022: iSarcasmEval - Intended Sarcasm Detection in English and Arabic",
-    author = "Abu Farha, Ibrahim  and
-    Oprea, Silviu  and
-    Wilson, Steven, and
-    Magdy, Walid",
-    booktitle = "Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)",
-    month = jul,
-    year = "2022",
-    }
+title={{SemEval-2022 Task 6}: {iSarcasmEval}, {Intended Sarcasm Detection in English and Arabic}},
+author={Abu Farha, Ibrahim and Oprea, Silviu and Wilson, Steven and Magdy, Walid},
+booktitle={Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)},
+year={2022},
+publisher={Association for Computational Linguistics},
+}
 
 ```
