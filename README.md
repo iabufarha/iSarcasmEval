@@ -35,7 +35,8 @@ Using these two datasets we formulate three sub-tasks for each language:
 
 For all the sub-tasks, precision, recall, accuracy and macro-F1 will be reported. The main metrics are:
 
-- <details><summary>SubTask A: F1-score for the sarcastic class.</summary> ```
+- <details><summary>SubTask A: F1-score for the sarcastic class.</summary> 
+```
 from sklearn.metrics import f1_score, precision_score, recall_score
 
 f1_sarcastic = f1_score(truths,submitted, average = "binary", pos_label = 1)
@@ -45,7 +46,9 @@ OR
 p_score_sarcastic = precision_score(truths,submitted, average = "binary", pos_label = 1)
 r_score_sarcastic = recall_score(truths,submitted, average = "binary", pos_label = 1)
 f1_sarcastic=(2*p_score_sarcastic*r_score_sarcastic)/(p_score_sarcastic+r_score_sarcastic)
-```</details>
+
+```
+</details>
 
 - SubTask B: Macro-F1 score
 
