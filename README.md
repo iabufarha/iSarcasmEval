@@ -35,7 +35,7 @@ Using these two datasets we formulate three sub-tasks for each language:
 
 For all the sub-tasks, precision, recall, accuracy and macro-F1 will be reported. The main metrics are:
 
-- <details><summary>SubTask A: F1-score for the sarcastic class.</summary> 
+- <details><summary>SubTask A: F1-score for the sarcastic class.</summary><br>
 ```
 from sklearn.metrics import f1_score, precision_score, recall_score
 
